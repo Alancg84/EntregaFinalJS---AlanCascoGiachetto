@@ -1,0 +1,29 @@
+[
+	{
+		"precio": 1000,
+		"id": 1,
+		"title": "Adidas Jabulani Mundial 2010",
+		"thumbnailUrl": "imgs/2010 - Jabulani.jpg"
+	},
+
+	{
+		"precio": 2000,
+		"id": 2,
+		"title": "Adidas Brazuca Mundial 2014",
+		"thumbnailUrl": "imgs/2014 - Brazuca.jpg"
+	},
+
+	{
+		"precio": 3000,
+		"id": 3,
+		"title": "Adidas Telstar Mundial 2018",
+		"thumbnailUrl": "imgs/2018 - Telstar.jpg"
+	},
+
+	{
+		"precio": 4000,
+		"id": 4,
+		"title": "Adidas Al-Rihla Mundial 2022",
+		"thumbnailUrl": "imgs/2022 -Al-Rihla.jpg"
+	}
+]
